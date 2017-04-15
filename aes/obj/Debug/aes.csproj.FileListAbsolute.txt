@@ -1,0 +1,6 @@
+C:\Users\naor\Desktop\aes\aes\bin\Debug\aes.exe.config
+C:\Users\naor\Desktop\aes\aes\bin\Debug\aes.exe
+C:\Users\naor\Desktop\aes\aes\bin\Debug\aes.pdb
+C:\Users\naor\Desktop\aes\aes\obj\Debug\aes.csprojResolveAssemblyReference.cache
+C:\Users\naor\Desktop\aes\aes\obj\Debug\aes.exe
+C:\Users\naor\Desktop\aes\aes\obj\Debug\aes.pdb
