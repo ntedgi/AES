@@ -3,7 +3,7 @@
 https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
 
 
-# Security of Computers and Communication Networks _ Assignment2
+# Security of Computers and Communication Networks 
 ## Encryption/Decryption interface:
  –a <AES1/AES3> : denotes the algorithm to use: "AES1" for 𝐴𝐸𝑆1 and "AES3" for 𝐴𝐸𝑆3
  
